@@ -456,7 +456,7 @@
                                     <span class="posted-date">Postado 27 de maio de 2020</span>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                                     <!-- <span class="comments-count">8 Comentários</span> -->
-                                    <a href="#" class="text-capitalize pull-right read-more-btn text-lt text-sp">leia mais/a>
+                                    <a href="#" class="text-capitalize pull-right read-more-btn text-lt text-sp">leia mais</a>
                                 </div>
                             </div>
                         </div>
