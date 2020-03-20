@@ -1608,8 +1608,8 @@ header.green {background: #60ba62;}
   .banner img {top: -1px;}
   .banner-text {top: 20%;background: rgba(255,255,255,0.7);padding: 10px;}
   .footer-social-links {width: 100%;float: left;border-top: 1px solid #ededed;padding-top: 17px;}
-  .nav-right-btn {background: #60ba62;width: 100%;float: left;padding: 15px;margin-top: 0}
-  .nav-right-btn .btn {border-color: rgba(255, 255, 255, 0.2);color: #fff;}
+  .nav-right-btn {/*background: #60ba62;*/width: 100%;float: left;padding: 15px;margin-top: 0}
+  .nav-right-btn .btn {border-color: #60ba62;color: #60ba62;}
   .nav-right-btn .btn:hover {background: #fff;color: #60ba62;}
   .navbar-default .navbar-nav>li {padding: 0;text-align: left;width: 100%;float: left;}
   .navbar-default .navbar-nav>li>a {padding: 5px 10px;}
