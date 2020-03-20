@@ -6,23 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
-    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="favicon.png?v=1.0.0"/>
+    <link rel="shortcut icon" type="image/png" href="favicon.png?v=1.0.0"/>
     <title>Madang</title>
     <!-- style lists -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/animate.css" rel="stylesheet">
-    <link href="css/hover.css" rel="stylesheet">
-    <link href="css/font-awesome.css" rel="stylesheet">
-    <link href="css/jquery.bxslider.css" rel="stylesheet">
-    <link href="css/owl.carousel.css" rel="stylesheet">
-    <link href="css/owl.transitions.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/feature-carousel.css">
-    <link href="css/jquery-ui-1.9.2.custom.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css?v=1.0.0" rel="stylesheet">
+    <link href="css/animate.css?v=1.0.0" rel="stylesheet">
+    <link href="css/hover.css?v=1.0.0" rel="stylesheet">
+    <link href="css/font-awesome.css?v=1.0.0" rel="stylesheet">
+    <link href="css/jquery.bxslider.css?v=1.0.0" rel="stylesheet">
+    <link href="css/owl.carousel.css?v=1.0.0" rel="stylesheet">
+    <link href="css/owl.transitions.css?v=1.0.0" rel="stylesheet">
+    <link rel="stylesheet" href="css/feature-carousel.css?v=1.0.0">
+    <link href="css/jquery-ui-1.9.2.custom.css?v=1.0.0" rel="stylesheet">
+    <link href="css/style.css?v=1.0.0" rel="stylesheet">
 
     <!-- montserrat font embed -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700?v=1.0.0' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -54,7 +54,7 @@
                 <div id="owl-demo">
                     <div class="item">
                         <!-- <div class="row"> -->
-                            <img src="images/home-banner1.jpg" alt="Owl Image">
+                            <img src="images/home-banner1.jpg?v=1.0.0" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-left">
                                     <h1 class="text-capitalize">Saudável Por Dentro, Fresco <span>Por Fora.</span></h1>
@@ -66,7 +66,7 @@
                     </div>
                     <div class="item">
                         <!-- <div class="row"> -->
-                            <img src="images/home-banner2.jpg" alt="Owl Image">
+                            <img src="images/home-banner2.jpg?v=1.0.0" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-left">
                                     <h1 class="text-capitalize">Comida Saudável, <span>No Café Da Manhã.</span></h1>
@@ -78,7 +78,7 @@
                     </div>
                     <div class="item">
                         <!-- <div class="row"> -->
-                            <img src="images/home-banner3.jpg" alt="Owl Image">
+                            <img src="images/home-banner3.jpg?v=1.0.0" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-center">
                                     <h1 class="text-capitalize">Comida Saudável Vem De <span>Ingredientes Saudáveis</span></h1>
@@ -102,21 +102,21 @@
                     <div class="row">
                         <div class="col-xs-12 col-sm-4 choose wow fadeInLeft">
                             <div class="feature-item-wrap text-center">
-                                <figure><img class="img-responsive" src="images/meal.svg" alt="Meal icon" /></figure>
+                                <figure><img class="img-responsive" src="images/meal.svg?v=1.0.0" alt="Meal icon" /></figure>
                                 <h5><a class="text-lt"  href="#COMO-FUNCIONA">Escolha O Seu Objetivo</a></h5>
                                 <p>Escolha qual será o seu objetivo e faça o pedido on-line ou por telefone.</p>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-4 deliver wow fadeInUp">
                             <div class="feature-item-wrap text-center">
-                                <figure><img class="img-responsive" src="images/delivery.svg" alt="Delivery icon" /></figure>
+                                <figure><img class="img-responsive" src="images/delivery.svg?v=1.0.0" alt="Delivery icon" /></figure>
                                 <h5><a class="text-lt" href="#COMO-FUNCIONA">Entregamos Suas Refeições</a></h5>
                                 <p>Preparamos e entregamos as refeições à sua porta. </p>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-4 eat wow fadeInRight">
                             <div class="feature-item-wrap text-center">
-                                <figure><img class="img-responsive" src="images/eat-enjoy.svg" alt="Eat and enjoy icon" /></figure>
+                                <figure><img class="img-responsive" src="images/eat-enjoy.svg?v=1.0.0" alt="Eat and enjoy icon" /></figure>
                                 <h5><a class="text-lt" href="#COMO-FUNCIONA">Coma E Aproveite</a></h5>
                                 <p>Sem cozinhar e sem limpeza. Desfrute de suas refeições saudáveis ​​com sua família.</p>
                             </div>
@@ -142,7 +142,7 @@
                         <ul class="bxslider1 row">
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image2.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image2.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Grilled Salmon</h6>
                                         <span>With Lime Butter Sauce</span>
@@ -151,7 +151,7 @@
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image3.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image3.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Salad With Chicken</h6>
                                         <span>Duis autem vel eum iriure</span>
@@ -160,7 +160,7 @@
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image4.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image4.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Healthy Breakfast Egg</h6>
                                         <span>Duis autem vel eum iriure</span>
@@ -169,7 +169,7 @@
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image5.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image5.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Grilled Roast Vegetable</h6>
                                         <span>With tofu or soybean curd</span>
@@ -178,7 +178,7 @@
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image6.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image6.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Tomatoes Sandwiches</h6>
                                         <span>With tofu or soybean curd</span>
@@ -187,7 +187,7 @@
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image1.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image1.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Grilled Roast Vegetable</h6>
                                         <span>With tofu or soybean curd</span>
@@ -196,7 +196,7 @@
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image2.jpg" alt="Featured image" /></figure>
+                                    <figure><img src="images/featured-image2.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
                                         <h6 class="text-capitalize text-lt text-sp">Grilled Salmon</h6>
                                         <span>With Lime Butter Sauce</span>
@@ -215,7 +215,7 @@
                 <div class='container'>
                     <div class='row'>
                         <div class="col-xs-12 col-sm-6 wow fadeInLeft left-image-block">
-                            <figure><img class="img-responsive" src="images/select-program-image.png" alt="Select program image" /></figure>
+                            <figure><img class="img-responsive" src="images/select-program-image.png?v=1.0.0" alt="Select program image" /></figure>
                         </div>
                         <div class="col-xs-12 col-sm-6 wow fadeInRight pull-right right-form-block">
                             <h3 class='text-uppercase text-sp'>SELECIONE UM OBJETIVO PARA AJUSTAR<br />SEU ESTILO DE VIDA</h3>
@@ -337,16 +337,16 @@
             <!-- ============== full width video block starts ============== -->
             <section class="full-width-video">
                 <div class="video-wrap">
-                    <img class="video-bg" alt="Madang demo video playback" src="images/video-bg.jpg">
+                    <img class="video-bg" alt="Madang demo video playback" src="images/video-bg.jpg?v=1.0.0">
                     <video id="bg-video" preload="auto" muted>
-                        <source src="media/video.mp4" type="video/mp4" />
-                        <source src="media/video.ogv" type="video/ogg" />
-                        <source src="media/video.webm" type="video/webm" />
+                        <source src="media/video.mp4?v=1.0.0" type="video/mp4" />
+                        <source src="media/video.ogv?v=1.0.0" type="video/ogg" />
+                        <source src="media/video.webm?v=1.0.0" type="video/webm" />
                         Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
                     </video>
 
                     <div class="video-text text-center video-controls">
-                        <a href="#" class="play-btn" id="play-btn"><img src="images/play-btn.svg" alt="Play button" /></a>
+                        <a href="#" class="play-btn" id="play-btn"><img src="images/play-btn.svg?v=1.0.0" alt="Play button" /></a>
                         <h2 class="text-lt text-sp">VEJA COMO PREPARAMOS A SUA REFEIÇÃO</h2>
                     </div>
                 </div>
@@ -369,7 +369,7 @@
                         <div class="col-xs-12 col-sm-4 col-md-3 wow fadeInLeft team-member-col">
                             <div class="text-center member-wrap">
                                 <div class="member-info">
-                                    <figure><a href="#"><img src="images/member1.jpg" alt="Member images" /></a></figure>
+                                    <figure><a href="#"><img src="images/member1.jpg?v=1.0.0" alt="Member images" /></a></figure>
                                     <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">MARINKA SULIS</a></h6>
                                     <span class="designation text-capitalize">Founder &amp; CEO</span>
                                 </div>
@@ -388,7 +388,7 @@
                         <div class="col-xs-12 col-sm-4 col-md-3 wow fadeInUp team-member-col">
                             <div class="text-center member-wrap">
                                 <div class="member-info">
-                                    <figure><a href="#"><img src="images/member2.jpg" alt="Member images" /></a></figure>
+                                    <figure><a href="#"><img src="images/member2.jpg?v=1.0.0" alt="Member images" /></a></figure>
                                     <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">ROY COLEMAN</a></h6>
                                     <span class="designation text-capitalize">Founder &amp; CTO</span>
                                 </div>
@@ -407,7 +407,7 @@
                         <div class="col-xs-12 col-sm-4 col-md-3 wow fadeInRight team-member-col">
                             <div class="text-center member-wrap">
                                 <div class="member-info">
-                                    <figure><a href="#"><img src="images/member3.jpg" alt="Member images" /></a></figure>
+                                    <figure><a href="#"><img src="images/member3.jpg?v=1.0.0" alt="Member images" /></a></figure>
                                     <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">THERESA MEYER</a></h6>
                                     <span class="designation text-capitalize text-lt text-sp">Expert Designer</span>
                                 </div>
@@ -441,7 +441,7 @@
                         <!-- blog single starts -->
                         <div class="col-xs-12 col-sm-4 wow fadeInLeft blog-single">
                             <div class="blog-single-wrap">
-                                <figure><a href="#"><img src="images/blog-image1.jpg" alt="Blog image" /></a></figure>
+                                <figure><a href="#"><img src="images/blog-image1.jpg?v=1.0.0" alt="Blog image" /></a></figure>
                                 <div class="blog-description">
                                     <h6 class="text-uppercase"><a href="#" class="text-lt text-sp">5 ALIMENTOS QUE PARECEM SAUDÁVEIS, MAS NÃO SÃO</a></h6>
                                     <span class="posted-date">Postado 27 de maio de 2020</span>
@@ -456,7 +456,7 @@
                         <!-- blog single starts -->
                         <div class="col-xs-12 col-sm-4 wow fadeInUp blog-single">
                             <div class="blog-single-wrap">
-                                <figure><a href="#"><img src="images/blog-image2.jpg" alt="Blog image" /></a></figure>
+                                <figure><a href="#"><img src="images/blog-image2.jpg?v=1.0.0" alt="Blog image" /></a></figure>
                                 <div class="blog-description">
                                     <h6 class="text-uppercase"><a href="#" class="text-lt text-sp">6 DICAS PARA FAZER PALEO EATING FÁCIL + ACESSÍVEL</a></h6>
                                     <span class="posted-date">Postado 27 de maio de 2020</span>
@@ -471,7 +471,7 @@
                         <!-- blog single starts -->
                         <div class="col-xs-12 col-sm-4 wow fadeInRight blog-single">
                             <div class="blog-single-wrap">
-                                <figure><a href="#"><img src="images/blog-image3.jpg" alt="Blog image" /></a></figure>
+                                <figure><a href="#"><img src="images/blog-image3.jpg?v=1.0.0" alt="Blog image" /></a></figure>
                                 <div class="blog-description">
                                     <h6 class="text-uppercase"><a href="#" class="text-lt text-sp">5 BOLINHOS SIMPLES E SAUDÁVEIS SEM GLÚTEN</a></h6>
                                     <span class="posted-date">Postado 27 de maio de 2020</span>
@@ -494,7 +494,7 @@
                 <div class="container">
                     <!-- left image starts -->
                     <div class="wow fadeInLeft left-mobile">
-                        <figure><img src="images/mobile-phone.png" alt="Mobile phone" /></figure>
+                        <figure><img src="images/mobile-phone.png?v=1.0.0" alt="Mobile phone" /></figure>
                     </div>
                     <!-- left image ends -->
 
@@ -505,8 +505,8 @@
                             <h1 class="text-lt text-sp">Choose. Eat. Enjoy</h1>
                             <p>Nam liber tempor csoluta nobis eleifnd option congue nihil imperdiet doming iquod mazim placerat facer possim assum lorem ipsum dolor possim assum lorem ipsum dolor.</p>
                             <div class="download-from">
-                                <a href="#" data-toggle="modal" data-target=".download-popup"><img src="images/app-store.png" alt="App store" /></a>
-                                <a href="#" data-toggle="modal" data-target=".download-popup"><img src="images/google-play.png" alt="Google Play" /></a>
+                                <a href="#" data-toggle="modal" data-target=".download-popup"><img src="images/app-store.png?v=1.0.0" alt="App store" /></a>
+                                <a href="#" data-toggle="modal" data-target=".download-popup"><img src="images/google-play.png?v=1.0.0" alt="Google Play" /></a>
                             </div>
                         </div>
                     </div>
@@ -524,7 +524,7 @@
                                 <h3 class="text-sp">A Saudel é impressionante !! Refeições deliciosas, saudáveis ​​e frescas!</h3>
                                 <p>Lorem ipsum dolor sit amet  inventore neque, expedita fugit impedit excepturi exercitationem quisquam placeat nam aperiam. Quia, quae. In cupiditate vel perspiciatis assumenda ab!</p>
                                 <div class="testimonial-author">
-                                    <figure><img src="images/profile-picture.jpg" alt="Profile picture" /></figure>
+                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" alt="Profile picture" /></figure>
                                     <span class="writer text-sp">Shirley Barnes</span>
                                 </div>
                             </li>
@@ -532,7 +532,7 @@
                                 <h3 class="text-sp">A Saudel é incrível!!</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur Dolorum eaque expedita vel ipsa placeat ipsam cupiditate, obcaecati autem, possimus cum doloremque ex quibusdam sit.</p>
                                 <div class="testimonial-author">
-                                    <figure><img src="images/profile-picture.jpg" style="filter:brightness(0.5)" alt="Profile picture" /></figure>
+                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" style="filter:brightness(0.5)" alt="Profile picture" /></figure>
                                     <span class="writer text-sp">Fernanda Marques</span>
                                 </div>
                             </li>
@@ -540,7 +540,7 @@
                                 <h3 class="text-sp">A Saudel é impressionante !! Refeições deliciosas, saudáveis e frescas!</h3>
                                 <p>Lorem ipsum ab veniam, dolorum maxime error velit sapiente corrupti consectetur? Cupiditate eaque iusto quidem sed?</p>
                                 <div class="testimonial-author">
-                                    <figure><img src="images/profile-picture.jpg" alt="Profile picture" /></figure>
+                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" alt="Profile picture" /></figure>
                                     <span class="writer text-sp">Brua Silva</span>
                                 </div>
                             </li>
@@ -560,13 +560,13 @@
                 </div>
                 <div class="instagram-image-row">
                     <ul>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img1.jpg" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img2.jpg" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img3.jpg" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img4.jpg" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img5.jpg" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img6.jpg" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img1.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img2.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img3.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img4.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img5.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img6.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                     </ul>
                 </div>
             </section>
@@ -594,16 +594,16 @@
             <div class="media-partner" style="display: none;">
                 <div class="container">
                     <div class="col-xs-6 col-sm-3 partner-item wow fadeInUp">
-                        <figure><img class="img-responsive" src="images/audiojungle.png" alt="Audio jungle" /></figure>
+                        <figure><img class="img-responsive" src="images/audiojungle.png?v=1.0.0" alt="Audio jungle" /></figure>
                     </div>
                     <div class="col-xs-6 col-sm-3 partner-item wow fadeInUp">
-                        <figure><img class="img-responsive" src="images/graphicriver.png" alt="Graphic river" /></figure>
+                        <figure><img class="img-responsive" src="images/graphicriver.png?v=1.0.0" alt="Graphic river" /></figure>
                     </div>
                     <div class="col-xs-6 col-sm-3 partner-item wow fadeInUp">
-                        <figure><img class="img-responsive" src="images/themeforest.png" alt="Themeforest" /></figure>
+                        <figure><img class="img-responsive" src="images/themeforest.png?v=1.0.0" alt="Themeforest" /></figure>
                     </div>
                     <div class="col-xs-6 col-sm-3 partner-item wow fadeInUp">
-                        <figure><img class="img-responsive" src="images/photodune.png" alt="Photodune" /></figure>
+                        <figure><img class="img-responsive" src="images/photodune.png?v=1.0.0" alt="Photodune" /></figure>
                     </div>
                 </div>
             </div>
@@ -623,7 +623,7 @@
                     <div class="modal-body">
                         <!-- left image starts -->
                         <div class="left-mobile">
-                            <figure><img src="images/mobile-phone-big.png" alt="Mobile phone" /></figure>
+                            <figure><img src="images/mobile-phone-big.png?v=1.0.0" alt="Mobile phone" /></figure>
                         </div>
                         <!-- left image ends -->
 
@@ -644,8 +644,8 @@
                                     </form>
                                 </div>
                                 <div class="download-from">
-                                    <a href="#"><img src="images/app-store.png" alt="App store" /></a>
-                                    <a href="#"><img src="images/google-play.png" alt="Google Play" /></a>
+                                    <a href="#"><img src="images/app-store.png?v=1.0.0" alt="App store" /></a>
+                                    <a href="#"><img src="images/google-play.png?v=1.0.0" alt="Google Play" /></a>
                                 </div>
                             </div>
                         </div>
@@ -694,18 +694,18 @@
     <!-- main wrapper of the site ends -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery-3.1.1.min.js"></script>
-    <script src="js/jquery-ui-1.9.2.custom.js"></script>
-    <script src="js/modernizr.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/Headroom.js"></script>
-    <script src="js/jquery.parallax-1.1.3.js"></script>
-    <script src="js/jquery.featureCarousel.js"></script>
-    <script src="js/jquery.bxslider.js"></script>
-    <script src="js/owl.carousel.js"></script>    
-    <script src="js/jquery.waypoints.js"></script>
-    <script src="js/jquery.counterup.js"></script>
-    <script src="js/main.js"></script>
+    <script src="js/jquery-3.1.1.min.js?v=1.0.0"></script>
+    <script src="js/jquery-ui-1.9.2.custom.js?v=1.0.0"></script>
+    <script src="js/modernizr.js?v=1.0.0"></script>
+    <script src="js/bootstrap.min.js?v=1.0.0"></script>
+    <script src="js/wow.min.js?v=1.0.0"></script>
+    <script src="js/Headroom.js?v=1.0.0"></script>
+    <script src="js/jquery.parallax-1.1.3.js?v=1.0.0"></script>
+    <script src="js/jquery.featureCarousel.js?v=1.0.0"></script>
+    <script src="js/jquery.bxslider.js?v=1.0.0"></script>
+    <script src="js/owl.carousel.js?v=1.0.0"></script>    
+    <script src="js/jquery.waypoints.js?v=1.0.0"></script>
+    <script src="js/jquery.counterup.js?v=1.0.0"></script>
+    <script src="js/main.js?v=1.0.0"></script>
 </body>
 </html>
