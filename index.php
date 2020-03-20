@@ -560,13 +560,15 @@
                 </div>
                 <div class="instagram-image-row">
                     <ul>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img1.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <?php include 'instagram_scrape.php';?>   
+                        <!-- <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img1.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                         <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img2.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                         <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img3.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                         <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img4.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                         <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img5.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                         <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img6.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
+                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li> -->
+                        <!-- <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li> -->
                     </ul>
                 </div>
             </section>
@@ -692,7 +694,6 @@
         <!-- whatsap close expand point start -->
         <span id="bottom-main"></span>
         <!-- whatsap close expand point end -->
-        
     </main>
         <!-- ============== footer block starts ============== -->
     <?php include 'footer.php';?>    

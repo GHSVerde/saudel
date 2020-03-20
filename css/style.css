@@ -537,7 +537,11 @@ button.close {opacity: 1;}
 .instagram-image-row ul li {display: inline-block;font-size: 14px;vertical-align: top;width: 14.31%;position: relative;margin-right: -0.5px;}
 .instagram-image-row ul {display: inline-block;margin: 0 -50px;overflow: hidden;vertical-align: bottom;}
 .instagram-image-row ul li figure {margin-bottom: 0;overflow: hidden;}
-.instagram-image-row li img {width: 100%;}
+.instagram-image-row li img {width: 100%;display: block;
+  /* width: 122px;
+  height: 122px; */
+  /* height: 100%; */
+  object-fit: cover;}
 .follow-at {font-size: 17px;color: #60ba62;font-family: 'Montserrat-Regular', sans-serif;}
 .instagram-block h4 {margin-bottom: 5px;}
 .instagram-block .top-text-header {margin-bottom: 30px;}
@@ -1263,7 +1267,7 @@ header.green {background: #60ba62;}
   .top-description>p {width: 90%;}
   .navbar-default .navbar-nav>li {padding: 20px 10px;}
   .nav-right-btn {width: 16.66666667%;}
-  .nav-right-btn .btn {width: 100%;padding: 5px 10px;}
+  .nav-right-btn .btn {/*width: 100%;*/padding: 5px 10px;}
   .footer-logo {width: 24%;margin-right: 3%;}
   .footer-social-links {width: 23%;}
   .banner-image {height: 280px;}
@@ -1999,3 +2003,11 @@ header.green {background: #60ba62;}
   }
 }
 
+@media (max-width: 768px) {
+  .nav-right-btn .btn {
+    width: 100%;
+}
+}
+img:not([alt]) {
+  filter: blur(5px);
+}
