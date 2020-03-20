@@ -10,7 +10,7 @@ function scrape_insta($username) {
 }
 
 //Supply a username
-$my_account = 'fecastanhari'; 
+$my_account = 'spalongevity'; 
 
 //Do the deed
 $results_array = scrape_insta($my_account);
@@ -19,10 +19,11 @@ echo var_dump(array_keys($results_array['entry_data']['ProfilePage'][0]["graphql
 //An example of where to go from there
 $latest_array = $results_array['entry_data']['ProfilePage'][0]["graphql"]['user']['edge_owner_to_timeline_media']['edges'];
 
-foreach ($latest_array as $line) {
-	$data = $line['node'];
-	$img = '<div style="background-size: contain; background-image: src("'.$data['display_url'].'); height:122px; width:122px;"></div>';//<img src="'.$data['display_url'].'" alt="Instagram image" height="122" width="122">
-	echo '<li class="wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;"><figure><a href="#"><img src="'.$data['display_url'].'" alt="Instagram image" height="122" width="122"></a></figure></li>';
+foreach ($latest_array as $index => $line) {
+	if ($index < 6) {
+		$data = $line['node'];
+		echo '<li class="wow fadeInUp animated col-md-2 col-sm-2 col-xs-6 m-b-0" style="padding: 2px;visibility: visible; animation-name: fadeInUp;"><figure><a href="http://instagram.com/p/'.$data['shortcode'].'" target="blank"><img src="'.$data['display_url'].'" alt="Instagram image" height="122" width="122"></a></figure></li>';
+	}
 	// echo 'Latest Photo:<br/>';
 	// echo '<a href="http://instagram.com/p/'.$data['shortcode'].'"><img src="'.$data['display_url'].'"></a></br>';
 	// echo 'Likes: '.$data['likes']['count'].' - Comments: '.$data['comments']['count'].'<br/>';

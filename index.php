@@ -19,7 +19,7 @@
     <link href="css/owl.transitions.css?v=1.0.0" rel="stylesheet">
     <link rel="stylesheet" href="css/feature-carousel.css?v=1.0.0">
     <link href="css/jquery-ui-1.9.2.custom.css?v=1.0.0" rel="stylesheet">
-    <link href="css/style.css?v=1.0.3" rel="stylesheet">
+    <link href="css/style.css?v=1.0.4" rel="stylesheet">
 
     <!-- montserrat font embed -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700?v=1.0.0' rel='stylesheet' type='text/css'>
@@ -559,7 +559,7 @@
                     </div>
                 </div>
                 <div class="instagram-image-row">
-                    <ul>
+                    <ul class="container-fluid">
                         <?php include 'instagram_scrape.php';?>   
                         <!-- <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img1.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
                         <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img2.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
