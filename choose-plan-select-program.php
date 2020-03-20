@@ -125,9 +125,10 @@
             </section>
             <br>
             <!-- =============== plan steps block ends ================== -->
-                    <!-- ============== footer block starts ============== -->
-         
-        <!-- ============== footer block ends ============== -->
+
+        <!-- whatsap close expand point start -->
+        <span id="bottom-main"></span>
+        <!-- whatsap close expand point end -->
         </main>
 
         <?php include 'footer.php';?> 

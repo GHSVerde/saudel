@@ -91,7 +91,7 @@ article,aside,figure,footer,header,hgroup,nav,section{display:block}
 img,object,embed{}
 img{vertical-align: bottom;}
 h1{font-weight: bold;}
-html{overflow-y:scroll}
+html{overflow-y:scroll; scroll-behavior: smooth;}
 ul{list-style:none}
 blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:none}
@@ -938,7 +938,7 @@ p.comment-form-comment label {display: none;}
 .tool-bar .action-btn-wrap .btn:hover, .tool-bar .action-btn-wrap .btn.active, .tool-bar .action-btn-wrap .btn:focus{ color: #60ba62; box-shadow: none; }
 
 /*======================= # Footer ==================*/
-footer {color: #fff;}
+footer {color: #fff; }
 .footer-menu div div{padding:0 3px;}
 .footer-logo {width: 30%;}
 .footer-logo figure {margin-bottom: 0;}
@@ -952,7 +952,7 @@ footer {color: #fff;}
 .footer-social-links ul li{display: inline-block;margin: 0 5px;}
 .footer-social-links ul li:last-child {margin-right: 0;}
 .footer-social-links ul li i {color: #60ba62;background: #dff1e0;border-radius: 25px;width: 25px;height: 25px;text-align: center; line-height: 26px;display: inline-block;}
-.bottom-footer {background: #4ea950; padding: 27px 0;}
+.bottom-footer {background: #4ea950; padding: 27px 0; padding-bottom: 10px !important;}
 .copyright-text {font-family: 'Montserrat-Light', sans-serif;letter-spacing: 0.15em;}
 
 /*======================== Cart page ==========================*/
@@ -1401,8 +1401,8 @@ header.green {background: #60ba62;}
   .subscribe-form input {padding: 15px 25px;} 
   .footer-logo {width: 30%;margin: 0 0 20px 0;}
   .footer-social-links {width: 27%;padding-left: 0;}
-  footer {height: 296px;}
-  main {margin-bottom: 296px;}
+  footer {height: 296px; position: relative;}
+  main {margin-bottom: 0px;}
   .bottom-footer {padding: 15px 0;}
   .footer-menu {width: 100%;border-top: 1px solid #ededed;padding-top: 20px;}
   .big-image figure {height: 326px;}
@@ -1932,22 +1932,23 @@ header.green {background: #60ba62;}
 #footer-copy ul li {
   display: inline-block;
   position: relative;
-  padding-left: 20px;
+  /* padding-left: 20px; */
 }
 
 #footer-copy p {
   font-size: 12px;
   text-align: center;
-  color: #b1b1b1;
+  color: #ffff;
 }
 
 #aidlogo {
-  height: 35px;
+  /* height: 35px; */
   width: auto;
-  filter: brightness(.7);
+  height: 29px;
+  /* filter: brightness(.7); */
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 990px) {
   #footer-copy ul {
       text-align: center;
       margin-top: 15px;
@@ -1972,3 +1973,29 @@ header.green {background: #60ba62;}
 .m-l-0 {
   margin-left: 0px;
 }
+
+
+#back-top a {
+  text-decoration: none;
+  display: block;
+  color: #4b4e53;
+  font-size: 34px;
+  z-index: 999;
+}
+
+#back-top {
+  position: fixed;
+  bottom: 5px;
+  right: 19px;
+  padding: 0;
+  margin: 0;
+  z-index: 20;
+}
+
+@media (max-width: 1024px) {
+  #back-top {
+      bottom: 5px;
+      right: 12px;
+  }
+}
+

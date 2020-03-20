@@ -66,24 +66,35 @@
 
 <div class="bottom-footer" id="footer-copy">
     <div class="container">
-    <div class="col-lg-6 col-md-6">
-      <div class="copyright-text text-center"><p>
-        &copy; 2020 - Saudel - Alimentação do Futuro.</div>
-      </p> 
-    </div>
-    <div class="col-lg-6 col-md-6">
-          <ul>
-            <li>
-              <a href="https://agenciaimpressaodigital.com/" target="_blank" aria-label="Link para o site do desenvolvedor Agência Impressão Digital">
-                <p>Desenvolvido por
-                  <img loading="lazy" id="aidlogo" src="https://agenciaimpressaodigital.com/images/logo.webp?v=1.0" alt="Logomarca Agência Impressão Digital">
-                </p>
-              </a>
-            </li>
-          </ul>
+        <div class="col-lg-6 col-md-6 col-xs-12">
+          <div class="copyright-text text-center">
+            <p>
+            &copy; 2020 - Saudel - Alimentação do Futuro.
+          </p> 
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-xs-12">
+              <ul>
+                <li>
+                  <a href="https://agenciaimpressaodigital.com/" target="_blank" aria-label="Link para o site do desenvolvedor Agência Impressão Digital">
+                    <p>Desenvolvido por
+                      <img loading="lazy" id="aidlogo" src="https://agenciaimpressaodigital.com/images/logo.webp?v=1.0" alt="Logomarca Agência Impressão Digital">
+                    </p>
+                  </a>
+                </li>
+              </ul>
       </div>
     </div>
 </div>
 </footer>
 <!-- ============== footer block starts ============== -->
 </div>
+
+<!-- whatsapp widget starts -->
+  <?php include 'whatsapp.php';?>   
+<!-- whatsapp widget end -->
+
+<!-- 
+<p id="back-top" style="display: block;">
+				<a href="#top" title="Voltar para o topo do site"><img style="width: 35px; height: auto; filter: opacity(0.4);" src="/images/up-arrow.svg"></a>
+			</p> -->
