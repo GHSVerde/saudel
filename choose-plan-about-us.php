@@ -76,7 +76,7 @@
                         <!-- choose plan about us step starts -->
                         <div class="step1">
                             <div class="col-xs-12 col-sm-6 wow fadeInLeft  left-form">
-                                <h5 class="text-uppercase">PODEMOS PREPARAR AS SUAS REFEIÇÕES DE FORMA SAUDÁVEL.</h5>
+                                <h5 class="text-uppercase">PREPARAMOS AS SUAS REFEIÇÕES DE FORMA SAUDÁVEL.</h5>
                                 <form class="about-us-form" action="/choose-plan-select-program.php">
                                     <fieldset>
                                         <div class="row">

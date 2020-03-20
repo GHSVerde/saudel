@@ -53,33 +53,39 @@
 
                 <div id="owl-demo">
                     <div class="item">
-                        <img src="images/home-banner1.jpg" alt="Owl Image">
-                        <div class="container">
-                            <div class="banner-text text-left">
-                                <h1 class="text-capitalize">Saudável Por Dentro, Fresco <span>Por Fora.</span></h1>
-                                <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p>
-                                <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
+                        <!-- <div class="row"> -->
+                            <img src="images/home-banner1.jpg" alt="Owl Image">
+                            <div class="container">
+                                <div class="banner-text text-left">
+                                    <h1 class="text-capitalize">Saudável Por Dentro, Fresco <span>Por Fora.</span></h1>
+                                    <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p>
+                                    <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
+                                </div>
                             </div>
-                        </div>
+                        <!-- </div> -->
                     </div>
                     <div class="item">
-                        <img src="images/home-banner2.jpg" alt="Owl Image">
-                        <div class="container">
-                            <div class="banner-text text-left">
-                                <h1 class="text-capitalize">Comida Saudável, <span>No Café Da Manhã.</span></h1>
-                                <p>We deliver healthy food that are ready to eat. Just choose your own menu you like.</p>
-                                <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
+                        <!-- <div class="row"> -->
+                            <img src="images/home-banner2.jpg" alt="Owl Image">
+                            <div class="container">
+                                <div class="banner-text text-left">
+                                    <h1 class="text-capitalize">Comida Saudável, <span>No Café Da Manhã.</span></h1>
+                                    <p>We deliver healthy food that are ready to eat. Just choose your own menu you like.</p>
+                                    <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
+                                </div>
                             </div>
-                        </div>
+                        <!-- </div> -->
                     </div>
                     <div class="item">
-                        <img src="images/home-banner3.jpg" alt="Owl Image">
-                        <div class="container">
-                            <div class="banner-text text-center">
-                                <h1 class="text-capitalize">Comida Saudável Vem De <span>Ingredientes Saudáveis</span></h1>
-                                <a href="/#MENU" class="btn">Veja nosso Menu</a>
+                        <!-- <div class="row"> -->
+                            <img src="images/home-banner3.jpg" alt="Owl Image">
+                            <div class="container">
+                                <div class="banner-text text-center">
+                                    <h1 class="text-capitalize">Comida Saudável Vem De <span>Ingredientes Saudáveis</span></h1>
+                                    <a href="/#MENU" class="btn">Veja nosso Menu</a>
+                                </div>
                             </div>
-                        </div>
+                        <!-- </div> -->
                     </div>
                 </div>
             </div>
