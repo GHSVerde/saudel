@@ -52,14 +52,7 @@
         <?php include 'header.php';?>  
         <!-- ============== Header ends ============== -->
 
-        <main>
-            <!-- =============== choose your own plan title block starts ================== -->
-            <section class="choose-plan-block">
-                <div class="container">
-                    <h5 class="text-center wow fadeInUp text-uppercase">CHOOSE YOUR OWN PLANS</h5>
-                </div>
-            </section>                
-            <!-- =============== choose your own plan title block ends ================== -->     
+        <main>   
 
             <!-- =============== plan steps block starts ================== -->
             <section class="plan-step">
