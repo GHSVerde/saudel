@@ -535,11 +535,11 @@ button.close {opacity: 1;}
 .instagram-image-row {overflow: hidden;display: block;}
 .instagram-image-row ul {font-size: 0;}
 .instagram-image-row ul li {display: inline-block;font-size: 14px;vertical-align: top;/*width: 14.31%;*/position: relative;margin-right: -0.5px;}
-.instagram-image-row ul {display: inline-block;margin: 0 -50px;overflow: hidden;vertical-align: bottom;}
+.instagram-image-row ul {display: inline-block;overflow: hidden;vertical-align: bottom;}
 .instagram-image-row ul li figure {margin-bottom: 0;overflow: hidden;}
-.instagram-image-row li img {width: 115%;
+.instagram-image-row li img {width: 100%;
   display: block;
-  height: 225px;
+  height: auto;
   object-fit: cover;}
 .follow-at {font-size: 17px;color: #60ba62;font-family: 'Montserrat-Regular', sans-serif;}
 .instagram-block h4 {margin-bottom: 5px;}

@@ -1,0 +1,12 @@
+{
+    "name": "mateu/saudel",
+    "authors": [
+        {
+            "name": "MateusArenas",
+            "email": "MateusArenas97@gmail.com"
+        }
+    ],
+    "require": {
+        "raiym/instagram-php-scraper": "^0.9.7"
+    }
+}
