@@ -551,27 +551,7 @@
             <!-- ============== testimonials block ends ============== -->
 
             <!-- ============== instagram block starts ============== -->
-            <section class="block instagram-block">
-                <div class="container">
-                    <div class="top-text-header text-center">
-                        <h4 class="text-uppercase text-sp text-lt">SIGA O NOSSO INSTAGRAM</h4>
-                        <a class="follow-at text-spx text-lt" href="https://www.instagram.com/SpaLongevity/" target="blank">@SpaLongevity</a>
-                    </div>
-                </div>
-                <div class="instagram-image-row">
-                    <ul class="container-fluid">
-                        <?php include 'instagram_get_photos.php';?>   
-                        <!-- <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img1.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img2.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img3.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img4.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img5.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img6.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li>
-                        <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li> -->
-                        <!-- <li class="wow fadeInUp"><figure><a href="#"><img src="images/instagram-img7.jpg?v=1.0.0" alt="Instagram image" /></a></figure></li> -->
-                    </ul>
-                </div>
-            </section>
+            <?php include 'instagram.php';?>   
             <!-- ============== instagram block starts ============== -->
 
             <!-- ============== Subscribe block starts ============== -->

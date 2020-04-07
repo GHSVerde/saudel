@@ -531,19 +531,6 @@ button.close {opacity: 1;}
 .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {bottom: -60px;}
 
 /*======================= # Instagram section ==================*/
-.instagram-block {padding-top: 90px;padding-bottom: 0;display: inline-block;width: 100%;vertical-align: bottom;}
-.instagram-image-row {overflow: hidden;display: block;}
-.instagram-image-row ul {font-size: 0;}
-.instagram-image-row ul li {display: inline-block;font-size: 14px;vertical-align: top;/*width: 14.31%;*/position: relative;margin-right: -0.5px;}
-.instagram-image-row ul {display: inline-block;overflow: hidden;vertical-align: bottom;}
-.instagram-image-row ul li figure {margin-bottom: 0;overflow: hidden;}
-.instagram-image-row li img {width: 100%;
-  display: block;
-  height: auto;
-  object-fit: cover;}
-.follow-at {font-size: 17px;color: #60ba62;font-family: 'Montserrat-Regular', sans-serif;}
-.instagram-block h4 {margin-bottom: 5px;}
-.instagram-block .top-text-header {margin-bottom: 30px;}
 
 /*======================= # Menu ==================*/
 .menu-single-block {padding: 65px 0 80px;}
