@@ -39,7 +39,7 @@
                     </div>
 
                     <div class="col-xs-12 col-sm-2 nav-right-btn">
-                        <a class="btn border-btn-small" href="/choose-plan-about-us.php">peça um orçamento</a>
+                        <a class="btn border-btn-small" href="/escolha-seu-plano-sobre.php">peça um orçamento</a>
                     </div>
                     <!-- ============== Main navigation ends ============== -->
 

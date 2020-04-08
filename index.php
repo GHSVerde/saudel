@@ -59,9 +59,9 @@
                             <img src="images/home-banner-soupe-1.jpg?v=2.0.1" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-left">
-                                    <h1 class="text-capitalize">Saudável Por Dentro, Fresco <span>Por Fora.</span></h1>
+                                    <h1 class="text-capitalize">Se Mantenha Saudável Por <span>Dentro e Por Fora.</span></h1>
                                     <!-- <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p> -->
-                                    <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
+                                    <a href="/escolha-seu-plano-sobre.php" class="btn">Peça Já</a>
                                 </div>
                             </div>
                         <!-- </div> -->
@@ -71,9 +71,9 @@
                             <img src="images/home-banner-soupe-2.jpg?v=1.0.0" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-left">
-                                    <h1 class="text-capitalize">Comida Saudável, <span>No Café Da Manhã.</span></h1>
+                                    <h1 class="text-capitalize">Comidas Saudáveis, <span>Para o seu dia a dia.</span></h1>
                                     <!-- <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p> -->
-                                    <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
+                                    <a href="/escolha-seu-plano-sobre.php" class="btn">Peça Já</a>
                                 </div>
                             </div>
                         <!-- </div> -->

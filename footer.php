@@ -25,7 +25,7 @@
 
                         <ul>
                             <li><a href="/#SOBRE">Saudel</a></li>
-                            <li><a href="/choose-plan-about-us.php">Peça um orçamento</a></li>
+                            <li><a href="/escolha-seu-plano-sobre.php">Peça um orçamento</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-3 footer-links-col">
