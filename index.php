@@ -54,11 +54,11 @@
                 <div id="owl-demo">
                     <div class="item">
                         <!-- <div class="row"> -->
-                            <img src="images/home-banner1.jpg?v=1.0.0" alt="Owl Image">
+                            <img src="images/home-banner-soupe-1.jpg?v=2.0.1" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-left">
                                     <h1 class="text-capitalize">Saudável Por Dentro, Fresco <span>Por Fora.</span></h1>
-                                    <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p>
+                                    <!-- <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p> -->
                                     <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
                                 </div>
                             </div>
@@ -66,11 +66,11 @@
                     </div>
                     <div class="item">
                         <!-- <div class="row"> -->
-                            <img src="images/home-banner2.jpg?v=1.0.0" alt="Owl Image">
+                            <img src="images/home-banner-soupe-2.jpg?v=1.0.0" alt="Owl Image">
                             <div class="container">
                                 <div class="banner-text text-left">
                                     <h1 class="text-capitalize">Comida Saudável, <span>No Café Da Manhã.</span></h1>
-                                    <p>We deliver healthy food that are ready to eat. Just choose your own menu you like.</p>
+                                    <!-- <p>Entregamos alimentos saudáveis e prontos para comer. Basta escolher o seu próprio menu que você gosta.</p> -->
                                     <a href="/choose-plan-about-us.php" class="btn">Peça Já</a>
                                 </div>
                             </div>
@@ -142,64 +142,64 @@
                         <ul class="bxslider1 row">
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image2.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <figure><img src="images/sopa-image-1.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Grilled Salmon</h6>
-                                        <span>With Lime Butter Sauce</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="col-xs-12 col-sm-3">
-                                <a href="#">
-                                    <figure><img src="images/featured-image3.jpg?v=1.0.0" alt="Featured image" /></figure>
-                                    <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Salad With Chicken</h6>
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa de vegetais</h6>
                                         <span>Duis autem vel eum iriure</span>
                                     </div>
                                 </a>
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image4.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <figure><img src="images/sopa-image-2.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Healthy Breakfast Egg</h6>
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa da cultura do leste asiático</h6>
                                         <span>Duis autem vel eum iriure</span>
                                     </div>
                                 </a>
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image5.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <figure><img src="images/sopa-image-3.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Grilled Roast Vegetable</h6>
-                                        <span>With tofu or soybean curd</span>
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa de quinoa de frango</h6>
+                                        <span>Duis autem vel eum iriure</span>
                                     </div>
                                 </a>
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image6.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <figure><img src="images/sopa-image-4.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Tomatoes Sandwiches</h6>
-                                        <span>With tofu or soybean curd</span>
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa verde</h6>
+                                        <span>Duis autem vel eum iriure</span>
                                     </div>
                                 </a>
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image1.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <figure><img src="images/sopa-image-5.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Grilled Roast Vegetable</h6>
-                                        <span>With tofu or soybean curd</span>
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa de Legumes com Frango - 1</h6>
+                                        <span>Duis autem vel eum iriure</span>
                                     </div>
                                 </a>
                             </li>
                             <li class="col-xs-12 col-sm-3">
                                 <a href="#">
-                                    <figure><img src="images/featured-image2.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <figure><img src="images/sopa-image-6.jpg?v=1.0.0" alt="Featured image" /></figure>
                                     <div class="menu-info">
-                                        <h6 class="text-capitalize text-lt text-sp">Grilled Salmon</h6>
-                                        <span>With Lime Butter Sauce</span>
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa de Legumes com Frango - 2</h6>
+                                        <span>Duis autem vel eum iriure</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="col-xs-12 col-sm-3">
+                                <a href="#">
+                                    <figure><img src="images/sopa-image-7.jpg?v=1.0.0" alt="Featured image" /></figure>
+                                    <div class="menu-info">
+                                        <h6 class="text-capitalize text-lt text-sp">Sopa de cebola</h6>
+                                        <span>Duis autem vel eum iriure</span>
                                     </div>
                                 </a>
                             </li>

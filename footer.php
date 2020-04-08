@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-4 footer-logo">
-                <figure><a href="#"><img class="img-responsive" src="images/madang-logo-white.png" alt="Footer logo" /></a></figure>
+                <figure><a href="#"><img class="img-responsive" src="images/saudel-logo-white.png" alt="Footer logo" /></a></figure>
             </div>
             <div class="col-xs-12 col-sm-2 footer-social-links pull-right hidden-md hidden-lg hidden-xs">
                 <ul>
