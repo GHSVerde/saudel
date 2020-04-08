@@ -11,7 +11,6 @@
     <!-- favicon -->
     <link rel="shortcut icon" type="image/png" href="favicon.png?v=1.0.0"/>
     <link rel="shortcut icon" type="image/png" href="favicon.png?v=1.0.0"/>
-    <title>Saudel | Alimentação do Futuro</title>
     <!-- style lists -->
     <link href="css/bootstrap.min.css?v=1.0.0" rel="stylesheet">
     <link href="css/animate.css?v=1.0.0" rel="stylesheet">

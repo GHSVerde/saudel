@@ -1,6 +1,6 @@
 <?php
   $config=Array(
-    "title"=>"Saudel | Alimentção do futuro",
+    "title"=>"Saudel | Alimentação do Futuro",
     "lang"=>"pt-BR",
   );
 ?>
