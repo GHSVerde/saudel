@@ -526,24 +526,24 @@
                                 <h3 class="text-sp">A Saudel é impressionante !! Refeições deliciosas, saudáveis ​​e frescas!</h3>
                                 <p>Lorem ipsum dolor sit amet  inventore neque, expedita fugit impedit excepturi exercitationem quisquam placeat nam aperiam. Quia, quae. In cupiditate vel perspiciatis assumenda ab!</p>
                                 <div class="testimonial-author">
-                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" alt="Profile picture" /></figure>
-                                    <span class="writer text-sp">Shirley Barnes</span>
+                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" alt="foto de perfil Emanuelle Mazaro" /></figure>
+                                    <span class="writer text-sp">Emanuelle Mazaro</span>
                                 </div>
                             </li>
                             <li>
                                 <h3 class="text-sp">A Saudel é incrível!!</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur Dolorum eaque expedita vel ipsa placeat ipsam cupiditate, obcaecati autem, possimus cum doloremque ex quibusdam sit.</p>
                                 <div class="testimonial-author">
-                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" style="filter:brightness(0.5)" alt="Profile picture" /></figure>
+                                    <figure><img src="images/profile-picture-2.jpg?v=1.0.0" alt="foto de perfil Fernanda Marques" /></figure>
                                     <span class="writer text-sp">Fernanda Marques</span>
                                 </div>
                             </li>
                             <li>
-                                <h3 class="text-sp">A Saudel é impressionante !! Refeições deliciosas, saudáveis e frescas!</h3>
+                                <h3 class="text-sp">impressionante! Refeições saudáveis e frescas além de serem deliciosas!</h3>
                                 <p>Lorem ipsum ab veniam, dolorum maxime error velit sapiente corrupti consectetur? Cupiditate eaque iusto quidem sed?</p>
                                 <div class="testimonial-author">
-                                    <figure><img src="images/profile-picture.jpg?v=1.0.0" alt="Profile picture" /></figure>
-                                    <span class="writer text-sp">Brua Silva</span>
+                                    <figure><img src="images/profile-picture-3.jpg?v=1.0.0" alt="foto de perfil Bruna Silva" /></figure>
+                                    <span class="writer text-sp">Bruna Silva</span>
                                 </div>
                             </li>
                         </ul>
