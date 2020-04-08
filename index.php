@@ -120,7 +120,7 @@
                             <div class="feature-item-wrap text-center">
                                 <figure><img class="img-responsive" src="images/eat-enjoy.svg?v=1.0.0" alt="Eat and enjoy icon" /></figure>
                                 <h5><a class="text-lt" href="#COMO-FUNCIONA">Coma E Aproveite</a></h5>
-                                <p>Sem cozinhar e sem limpeza. Desfrute de suas refeições saudáveis ​​com sua família.</p>
+                                <p>Desfrute de suas refeições saudáveis ​​com sua família, sem precisar de cozinhar.</p>
                             </div>
                         </div>
                     </div>
