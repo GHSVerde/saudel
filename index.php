@@ -376,7 +376,7 @@
                                 <div class="member-info">
                                     <figure><a href="#"><img src="images/member1.jpg?v=1.0.0" alt="Member images" /></a></figure>
                                     <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">JULIA SILVA</a></h6>
-                                    <span class="designation text-capitalize">Fundadora &amp; CEO</span>
+                                    <span class="designation text-capitalize">Fundadora &amp; Nutricionista</span>
                                 </div>
                                 <div class="social-links">
                                     <ul>
@@ -395,7 +395,7 @@
                                 <div class="member-info">
                                     <figure><a href="#"><img src="images/member2.jpg?v=1.0.0" alt="Member images" /></a></figure>
                                     <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">RAUL PEREIRA</a></h6>
-                                    <span class="designation text-capitalize">Fundador &amp; CTO</span>
+                                    <span class="designation text-capitalize">Fundador &amp; Cozinheiro Chefe</span>
                                 </div>
                                 <div class="social-links">
                                     <ul>
@@ -414,7 +414,7 @@
                                 <div class="member-info">
                                     <figure><a href="#"><img src="images/member3.jpg?v=1.0.0" alt="Member images" /></a></figure>
                                     <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">THERESA MEYER</a></h6>
-                                    <span class="designation text-capitalize text-lt text-sp">Expert Designer</span>
+                                    <span class="designation text-capitalize text-lt text-sp">Cozinheira</span>
                                 </div>
                                 <div class="social-links">
                                     <ul>
