@@ -438,7 +438,7 @@
                 <div class="container">
                     <!-- == top header text starts == -->
                     <div class="top-text-header text-center wow fadeInUp">
-                        <h4 class="text-uppercase text-lt text-sp">Notícias</h4>
+                        <h4 class="text-uppercase text-lt text-sp">Blog</h4>
                     </div>
                     <!-- == top header text ends == -->
 
