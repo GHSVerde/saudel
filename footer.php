@@ -14,7 +14,7 @@
                     <li><a href="#"><i class="fa fa-facebook hvr-wobble-top"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter hvr-wobble-top"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus hvr-wobble-top"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram hvr-wobble-top"></i></a></li>
+                    <li><a href="https://www.instagram.com/spalongevity/"><i class="fa fa-instagram hvr-wobble-top"></i></a></li>
                     <li><a href="#"><i class="fa fa-tumblr hvr-wobble-top"></i></a></li>
                 </ul>
             </div>
@@ -56,7 +56,7 @@
                     <li><a href="#"><i class="fa fa-facebook hvr-wobble-top"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter hvr-wobble-top"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus hvr-wobble-top"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram hvr-wobble-top"></i></a></li>
+                    <li><a href="https://www.instagram.com/spalongevity/"><i class="fa fa-instagram hvr-wobble-top"></i></a></li>
                     <li><a href="#"><i class="fa fa-tumblr hvr-wobble-top"></i></a></li>
                 </ul>
             </div>
