@@ -512,7 +512,7 @@ button.close {opacity: 1;}
 .modal-dialog {margin: 6% auto;}
 
 /*======================= # Testimonials section ==================*/
-.testimonials-block {background-size: cover;text-align: right;padding: 10.5% 0;width: 100%;background-color: #edf1fd;background-image: url(../images/testimonial-bg.jpg);background-repeat: no-repeat;background-position: left top;}
+.testimonials-block {background-size: cover;text-align: right;padding: 10.5% 0;width: 100%;background-color: #edf1fd;background-image: url(../images/testimonial-bg.jpg?v=1.0.2);background-repeat: no-repeat;background-position: left top;}
 .testimonials h3 {font-size: 26px;line-height: 38px;}
 .testimonials figure {display: inline-block;margin-right: 15px;height: 43px;width: 43px;border-radius: 43px;overflow: hidden;}
 .testimonials .writer {display: inline-block;font-size: 17px;font-family: 'Montserrat-Regular', sans-serif;color: #575757;}
