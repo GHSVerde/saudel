@@ -30,7 +30,7 @@
                                         <li class="active"><a href="/#sobre">SOBRE</a></li>
                                         <li><a href="/#como-funciona">COMO FUNCIONA</a></li>
                                         <li><a href="/#menu">MENU</a></li>
-                                        <li><a href="/#noticias">NOTÍCIAS</a></li>
+                                        <li><a href="/#blog">BLOG</a></li>
                                         <li><a href="/#depoimentos">DEPOIMENTOS</a></li>
                                     </ul>
                                 </div><!-- /.navbar-collapse -->

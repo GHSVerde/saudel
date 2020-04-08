@@ -24,22 +24,22 @@
                         <span>sobre</span>
 
                         <ul>
-                            <li><a href="/#SOBRE">Saudel</a></li>
+                            <li><a href="/#sobre">Saudel</a></li>
                             <li><a href="/escolha-seu-plano-sobre.php">Peça um orçamento</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-3 footer-links-col">
                         <span>leia</span>
                         <ul>
-                            <li><a href="/#NOTICIAS">Notícias</a></li>
-                            <li><a href="/#FAQ">FAQ</a></li>
+                            <li><a href="/#blog">Blog</a></li>
+                            <li><a href="/#depoimentos">Depoimentos</a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-3 footer-links-col">
                         <span>descubra</span>
                         <ul>
-                            <li><a href="/#MENU">Menu</a></li>
-                            <li><a href="/#COMO-FUNCIONA">Como funciona</a></li>
+                            <li><a href="/#menu">Menu</a></li>
+                            <li><a href="/#como-funciona">Como funciona</a></li>
                         </ul>
                     </div>
                     <!-- <div class="col-xs-12 col-sm-3 footer-links-col">
