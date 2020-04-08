@@ -372,8 +372,8 @@
                             <div class="text-center member-wrap">
                                 <div class="member-info">
                                     <figure><a href="#"><img src="images/member1.jpg?v=1.0.0" alt="Member images" /></a></figure>
-                                    <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">MARINKA SULIS</a></h6>
-                                    <span class="designation text-capitalize">Founder &amp; CEO</span>
+                                    <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">JULIA SILVA</a></h6>
+                                    <span class="designation text-capitalize">Fundadora &amp; CEO</span>
                                 </div>
                                 <div class="social-links">
                                     <ul>
@@ -391,8 +391,8 @@
                             <div class="text-center member-wrap">
                                 <div class="member-info">
                                     <figure><a href="#"><img src="images/member2.jpg?v=1.0.0" alt="Member images" /></a></figure>
-                                    <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">ROY COLEMAN</a></h6>
-                                    <span class="designation text-capitalize">Founder &amp; CTO</span>
+                                    <h6 class="text-uppercase"><a class="text-lt text-sp" href="#">RAUL PEREIRA</a></h6>
+                                    <span class="designation text-capitalize">Fundador &amp; CTO</span>
                                 </div>
                                 <div class="social-links">
                                     <ul>
