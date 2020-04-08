@@ -6,7 +6,7 @@
 
                     <!-- ============== Left logo block starts ============== -->
                     <div class="col-xs-12 col-sm-3 logo-block">
-                        <figure><a href="/"><img class="img-responsive" src="images/saudel-logo-color.png" alt="Madang Logo" /></a></figure>
+                        <figure><a href="/"><img class="img-responsive" src="images/saudel-logo-color.png" alt="Saudel Logo" /></a></figure>
                     </div>
                     <!-- ============== Left logo block ends ============== -->
 

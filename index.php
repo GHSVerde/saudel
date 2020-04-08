@@ -1,7 +1,10 @@
-
+<?php 
+    require_once('./config.php');
+?>
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="<?php echo $config["lang"]?>">
 <head>
+    <title><?php echo $config["title"]?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -337,7 +340,7 @@
             <!-- ============== full width video block starts ============== -->
             <section class="full-width-video">
                 <div class="video-wrap">
-                    <img class="video-bg" alt="Madang demo video playback" src="images/video-bg.jpg?v=1.0.0">
+                    <img class="video-bg" alt="Saudel, video de apresentção" src="images/video-bg.jpg?v=1.0.0">
                     <video id="bg-video" preload="auto" muted>
                         <source src="media/video.mp4?v=1.0.0" type="video/mp4" />
                         <source src="media/video.ogv?v=1.0.0" type="video/ogg" />

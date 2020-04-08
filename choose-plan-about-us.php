@@ -1,7 +1,12 @@
 
+<?php 
+    require_once('./config.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $config["lang"]?>">
 <head>
+    <title><?php echo $config["title"]?></title>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +14,6 @@
     <!-- favicon -->
     <link rel="shortcut icon" type="image/png" href="favicon.png"/>
     <link rel="shortcut icon" type="image/png" href="favicon.png"/>
-    <title>Madang</title>
 
     <!-- style lists -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
