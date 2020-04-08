@@ -21,7 +21,7 @@
     <link href="css/owl.transitions.css?v=1.0.0" rel="stylesheet">
     <link rel="stylesheet" href="css/feature-carousel.css?v=1.0.0">
     <link href="css/jquery-ui-1.9.2.custom.css?v=1.0.0" rel="stylesheet">
-    <link href="css/style.css?v=1.0.5" rel="stylesheet">
+    <link href="css/style.css?v=1.0.7" rel="stylesheet">
 
     <!-- montserrat font embed -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700?v=1.0.0' rel='stylesheet' type='text/css'>
@@ -96,7 +96,8 @@
 
         <main>
             <!-- ============== how it works block starts ============== -->
-            <section class="block how-it-works-block" id="COMO-FUNCIONA">
+            <section class="block how-it-works-block p-r" >
+                <div class="anchor" id="COMO-FUNCIONA" style="top: -75px;"></div>
                 <div class="container">
                     <div class="top-text text-center wow fadeInUp">
                         <h4 class="text-uppercase text-lt text-sp" >COMO FUNCIONA</h4>
@@ -129,7 +130,8 @@
             <!-- ============== how it works block starts ============== -->
 
             <!-- ============== featured menu block starts ============== -->
-            <section class="block featured-menu-block" id="MENU">
+            <section class="block featured-menu-block p-r">
+                <div class="anchor" id="MENU" style="top: -100px;"></div>
                 <div class="container">
                     <!-- == top text header starts == -->
                     <div class="wow fadeInUp top-text-header text-center">
@@ -356,7 +358,8 @@
             <!-- ============== full width video block ends ============== -->
 
             <!-- ============== team member block starts ============== -->
-            <section class="block team-member-block" id="SOBRE">
+            <section class="block team-member-block p-r">
+                <div class="anchor" id="SOBRE" style="top: -70px;"></div>
                 <div class="container">
                     <!-- == top header text starts == -->
                     <div class="top-text-header wow fadeInUp text-center">
@@ -430,7 +433,8 @@
             <!-- ============== team member block ends ============== -->
 
             <!-- ============== blog block starts ============== -->
-            <section class="blog-block" id="NOTICIAS">
+            <section class="blog-block p-r" >
+                <div class="anchor" id="NOTICIAS" style="top: -30px;"></div>
                 <div class="container">
                     <!-- == top header text starts == -->
                     <div class="top-text-header text-center wow fadeInUp">
@@ -518,7 +522,8 @@
             <!-- ============== download app block ends ============== -->
 
             <!-- ============== testimonials block starts ============== -->
-            <section class="testimonials-block" id="FAQ">
+            <section class="testimonials-block p-r">
+                <div class="anchor" id="FAQ" style="top: -125px;"></div>
                 <div class="container">
                     <div class="text-center wow fadeInRight testimonials">
                         <ul class="bxslider">
