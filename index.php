@@ -21,7 +21,7 @@
     <link href="css/owl.transitions.css?v=1.0.0" rel="stylesheet">
     <link rel="stylesheet" href="css/feature-carousel.css?v=1.0.0">
     <link href="css/jquery-ui-1.9.2.custom.css?v=1.0.0" rel="stylesheet">
-    <link href="css/style.css?v=1.0.8" rel="stylesheet">
+    <link href="css/style.css?v=1.0.9" rel="stylesheet">
 
     <!-- montserrat font embed -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,700?v=1.0.0' rel='stylesheet' type='text/css'>

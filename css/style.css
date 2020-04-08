@@ -1108,7 +1108,7 @@ input.txtacrescimo{ width: 30px; margin: 0; text-align: center; font-size: 16px;
 .health-banner .banner-text h1 strong{ color: #fff; }
 .health-banner .banner-text p{ font-size: 18px; width: 58%; margin: 0 auto 60px; }
 .video-pop-up .video-wrap { overflow: hidden;}
-.video-pop-up .video-wrap img.video-bg{ position: absolute;}
+.video-pop-up .video-wrap img.video-bg{ position: absolute; width: 100%;}
 
 .fun-fact{ border: 1px solid #60ba62; }
 .fun-fact .box{ border-left: 1px solid #60ba62; margin-left: -1px; padding: 35px 0; }
