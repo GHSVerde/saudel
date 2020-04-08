@@ -127,7 +127,7 @@
                                         <div class="review-info">
                                             <div class="title name">
                                                 <span>Seu Nome</span>
-                                                <span>Rebecca Lawson</span>
+                                                <span>Larissa Silva</span>
                                             </div>
                                             <div class="title gender">
                                                 <span>Gênero</span>
@@ -135,7 +135,7 @@
                                             </div>
                                             <div class="title email">
                                                 <span>Email</span>
-                                                <span>Rebeca@gmail.com</span>
+                                                <span>Larissa.Silva12@gmail.com</span>
                                             </div>
                                             <div class="title address">
                                                 <span>Address</span>
