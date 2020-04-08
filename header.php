@@ -11,7 +11,7 @@
                     <!-- ============== Left logo block ends ============== -->
 
                     <!-- ============== Main navigation starts ============== -->
-                    <div class="col-xs-12 col-sm-6 menu-block">
+                    <div class="col-xs-12 col-sm-7 menu-block">
                         <nav class="navbar navbar-default">
                             <div class="container-fluid">
                                 <!-- Brand and toggle get grouped for better mobile display -->
