@@ -31,7 +31,7 @@
                                         <li><a href="/#COMO-FUNCIONA">COMO FUNCIONA</a></li>
                                         <li><a href="/#MENU">MENU</a></li>
                                         <li><a href="/#NOTICIAS">NOTÍCIAS</a></li>
-                                        <li><a href="/#FAQ">FAQ</a></li>
+                                        <li><a href="/#DEPOIMENTOS">DEPOIMENTOS</a></li>
                                     </ul>
                                 </div><!-- /.navbar-collapse -->
                             </div><!-- /.container-fluid -->

@@ -523,7 +523,7 @@
 
             <!-- ============== testimonials block starts ============== -->
             <section class="testimonials-block p-r">
-                <div class="anchor" id="FAQ" style="top: -125px;"></div>
+                <div class="anchor" id="DEPOIMENTOS" style="top: -125px;"></div>
                 <div class="container">
                     <div class="text-center wow fadeInRight testimonials">
                         <ul class="bxslider">
