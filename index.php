@@ -84,7 +84,7 @@
                             <div class="container">
                                 <div class="banner-text text-center">
                                     <h1 class="text-capitalize">Comida Saudável Vem De <span>Ingredientes Saudáveis</span></h1>
-                                    <a href="/#MENU" class="btn">Veja nosso Menu</a>
+                                    <a href="/#menu" class="btn">Veja nosso Menu</a>
                                 </div>
                             </div>
                         <!-- </div> -->
@@ -97,7 +97,7 @@
         <main>
             <!-- ============== how it works block starts ============== -->
             <section class="block how-it-works-block p-r" >
-                <div class="anchor" id="COMO-FUNCIONA" style="top: -75px;"></div>
+                <div class="anchor" id="como-funciona" style="top: -75px;"></div>
                 <div class="container">
                     <div class="top-text text-center wow fadeInUp">
                         <h4 class="text-uppercase text-lt text-sp" >COMO FUNCIONA</h4>
@@ -106,21 +106,21 @@
                         <div class="col-xs-12 col-sm-4 choose wow fadeInLeft">
                             <div class="feature-item-wrap text-center">
                                 <figure><img class="img-responsive" src="images/meal.svg?v=1.0.0" alt="Meal icon" /></figure>
-                                <h5><a class="text-lt"  href="#COMO-FUNCIONA">Escolha O Seu Objetivo</a></h5>
+                                <h5><a class="text-lt"  href="#como-funciona">Escolha O Seu Objetivo</a></h5>
                                 <p>Escolha qual será o seu objetivo e faça o pedido on-line ou por telefone.</p>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-4 deliver wow fadeInUp">
                             <div class="feature-item-wrap text-center">
                                 <figure><img class="img-responsive" src="images/delivery.svg?v=1.0.0" alt="Delivery icon" /></figure>
-                                <h5><a class="text-lt" href="#COMO-FUNCIONA">Entregamos Suas Refeições</a></h5>
+                                <h5><a class="text-lt" href="#como-funciona">Entregamos Suas Refeições</a></h5>
                                 <p>Preparamos e entregamos as refeições à sua porta. </p>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-4 eat wow fadeInRight">
                             <div class="feature-item-wrap text-center">
                                 <figure><img class="img-responsive" src="images/eat-enjoy.svg?v=1.0.0" alt="Eat and enjoy icon" /></figure>
-                                <h5><a class="text-lt" href="#COMO-FUNCIONA">Coma E Aproveite</a></h5>
+                                <h5><a class="text-lt" href="#como-funciona">Coma E Aproveite</a></h5>
                                 <p>Desfrute de suas refeições saudáveis ​​com sua família, sem precisar de cozinhar.</p>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
 
             <!-- ============== featured menu block starts ============== -->
             <section class="block featured-menu-block p-r">
-                <div class="anchor" id="MENU" style="top: -100px;"></div>
+                <div class="anchor" id="menu" style="top: -100px;"></div>
                 <div class="container">
                     <!-- == top text header starts == -->
                     <div class="wow fadeInUp top-text-header text-center">
@@ -359,7 +359,7 @@
 
             <!-- ============== team member block starts ============== -->
             <section class="block team-member-block p-r">
-                <div class="anchor" id="SOBRE" style="top: -70px;"></div>
+                <div class="anchor" id="sobre" style="top: -70px;"></div>
                 <div class="container">
                     <!-- == top header text starts == -->
                     <div class="top-text-header wow fadeInUp text-center">
@@ -434,7 +434,7 @@
 
             <!-- ============== blog block starts ============== -->
             <section class="blog-block p-r" >
-                <div class="anchor" id="NOTICIAS" style="top: -30px;"></div>
+                <div class="anchor" id="noticias" style="top: -30px;"></div>
                 <div class="container">
                     <!-- == top header text starts == -->
                     <div class="top-text-header text-center wow fadeInUp">
@@ -523,7 +523,7 @@
 
             <!-- ============== testimonials block starts ============== -->
             <section class="testimonials-block p-r">
-                <div class="anchor" id="DEPOIMENTOS" style="top: -125px;"></div>
+                <div class="anchor" id="depoimentos" style="top: -125px;"></div>
                 <div class="container">
                     <div class="text-center wow fadeInRight testimonials">
                         <ul class="bxslider">

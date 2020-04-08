@@ -27,11 +27,11 @@
                                 <!-- Collect the nav links, forms, and other content for toggling -->
                                 <div class="collapse">
                                     <ul class="nav navbar-nav text-right pull-right">
-                                        <li class="active"><a href="/#SOBRE">SOBRE</a></li>
-                                        <li><a href="/#COMO-FUNCIONA">COMO FUNCIONA</a></li>
-                                        <li><a href="/#MENU">MENU</a></li>
-                                        <li><a href="/#NOTICIAS">NOTÍCIAS</a></li>
-                                        <li><a href="/#DEPOIMENTOS">DEPOIMENTOS</a></li>
+                                        <li class="active"><a href="/#sobre">SOBRE</a></li>
+                                        <li><a href="/#como-funciona">COMO FUNCIONA</a></li>
+                                        <li><a href="/#menu">MENU</a></li>
+                                        <li><a href="/#noticias">NOTÍCIAS</a></li>
+                                        <li><a href="/#depoimentos">DEPOIMENTOS</a></li>
                                     </ul>
                                 </div><!-- /.navbar-collapse -->
                             </div><!-- /.container-fluid -->
