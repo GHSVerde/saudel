@@ -523,8 +523,8 @@
                     <div class="text-center wow fadeInRight testimonials">
                         <ul class="bxslider">
                             <li>
-                                <h3 class="text-sp">A Saudel é impressionante !! Refeições deliciosas, saudáveis ​​e frescas!</h3>
-                                <p>Lorem ipsum dolor sit amet  inventore neque, expedita fugit impedit excepturi exercitationem quisquam placeat nam aperiam. Quia, quae. In cupiditate vel perspiciatis assumenda ab!</p>
+                                <h3 class="text-sp">A Saudel é impressionante!! Refeições deliciosas e saudáveis!</h3>
+                                <p>Lorem ipsum ab veniam, dolorum maxime error velit sapiente corrupti consectetur? Cupiditate eaque iusto quidem sed?</p>
                                 <div class="testimonial-author">
                                     <figure><img src="images/profile-picture.jpg?v=1.0.0" alt="foto de perfil Emanuelle Mazaro" /></figure>
                                     <span class="writer text-sp">Emanuelle Mazaro</span>
